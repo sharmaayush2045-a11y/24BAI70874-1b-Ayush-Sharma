@@ -35,9 +35,10 @@ profile-card/
 ├── index.html
 ├── style.css
 ├── assests/
-│ └── profile.jpg
-| └── preview.png
+│   ├── profile.jpg
+│   └── preview.png
 └── README.md
+
 
 
 ---
