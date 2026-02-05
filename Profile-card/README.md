@@ -29,7 +29,7 @@ This project showcases a glassmorphism-style card suitable for portfolios, perso
 ---
 
 ## 📂 Project Structure
-
+```
 profile-card/
 │
 ├── index.html
